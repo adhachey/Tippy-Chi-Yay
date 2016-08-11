@@ -1,15 +1,15 @@
-# Tippy-Chi-Yay# Pre-work - *Tippy Chi Yay*
+# Tipper# Pre-work - *Tipperv2*
 
-**Tippy Chi Yay** is a tip calculator application for iOS.
+**Tipper** is a tip calculator application for iOS.
 
 Submitted by: **Alex Hachey**
 
-Time spent: **2** hours spent in total
+Time spent: **2** hours spent in total, although I had many issues uploading to github using github desktop.  I have been at a conference while trying to upload and I think the firewall or network that I'm on may have contributed to my issues but I eventually uploaded directly via Github's web interface.  My project files are located in the "Tipperv2" folder here: https://github.com/adhachey/Tippy-Chi-Yay/tree/master/Tipper%20V2.
 
 ## User Stories
 
 The following **required** functionality is complete:
-* [X] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
+* [X] User can enter a bill amount, indicate the wuality of your service across "friendliness," "Speed" and "Accuracy," and see a recommended tip and total values, based on the service you received.
 
 The following **optional** features are implemented:
 * [ ] Custom font
@@ -18,19 +18,22 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
+- [X] Additional toggle fields capturing quality of service/experience
+- [X] Tip recommendation is generated based on the quality of service you received across the general categories, "friendliness," "speed" and "accuracy."
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<a href="/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif" target="_blank"><img src='/course_images/ios_for_designers/name%20of%20your%20file%20in%20the%20repo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /></a>
+<a href="https://github.com/adhachey/Tippy-Chi-Yay/blob/master/Tipper%20V2/demo.gif' /></a>
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [LiceCap](http://www.cockos.com/licecap/). https://github.com/adhachey/Tippy-Chi-Yay/blob/master/Tipper%20V2/demo.gif
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+Setting up github desktop could not work for me.  For some reason setting up a project through github desktop wasn't working.  I would hit publish and get many different errors.  This seemed to work for me on my own network at home but not while attending a conference.
 
 ## License
 
